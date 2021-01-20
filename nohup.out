@@ -1,0 +1,45 @@
+[I 20:07:07.972 NotebookApp] Serving notebooks from local directory: /home/xren/bl
+[I 20:07:07.972 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 20:07:07.972 NotebookApp] http://localhost:8888/?token=16de53cb90cb2b10ac2bc57e46c566087f73069e32a757f2
+[I 20:07:07.972 NotebookApp]  or http://127.0.0.1:8888/?token=16de53cb90cb2b10ac2bc57e46c566087f73069e32a757f2
+[I 20:07:07.972 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:07:08.006 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/xren/.local/share/jupyter/runtime/nbserver-2067933-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=16de53cb90cb2b10ac2bc57e46c566087f73069e32a757f2
+     or http://127.0.0.1:8888/?token=16de53cb90cb2b10ac2bc57e46c566087f73069e32a757f2
+[I 20:07:17.709 NotebookApp] Creating new notebook in 
+[W 20:07:18.666 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20201124200707 (127.0.0.1) 9.38ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 20:07:18.739 NotebookApp] Kernel started: fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d, name: python3
+[I 20:08:46.767 NotebookApp] Saving file at /graph.ipynb
+[I 20:09:01.788 NotebookApp] Saving file at /graph.ipynb
+[I 20:09:07.975 NotebookApp] Saving file at /graph.ipynb
+[I 20:11:18.732 NotebookApp] Saving file at /graph.ipynb
+[I 20:13:18.735 NotebookApp] Saving file at /graph.ipynb
+[I 20:15:18.733 NotebookApp] Saving file at /graph.ipynb
+[I 20:16:12.231 NotebookApp] Saving file at /graph.ipynb
+[I 20:17:18.732 NotebookApp] Saving file at /graph.ipynb
+[I 20:19:18.732 NotebookApp] Saving file at /graph.ipynb
+[I 20:20:58.265 NotebookApp] Saving file at /graph.ipynb
+[I 20:21:19.552 NotebookApp] Saving file at /graph.ipynb
+[I 20:22:50.014 NotebookApp] Saving file at /graph.ipynb
+[I 20:22:52.252 NotebookApp] Starting buffering for fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d:bfe8e47b56f94317857753a1e035f7a4
+[I 20:22:52.768 NotebookApp] Kernel restarted: fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d
+[I 20:22:52.785 NotebookApp] Restoring connection for fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d:bfe8e47b56f94317857753a1e035f7a4
+[I 20:22:52.785 NotebookApp] Replaying 3 buffered messages
+[I 20:23:19.553 NotebookApp] Saving file at /graph.ipynb
+[I 20:23:40.917 NotebookApp] Saving file at /graph.ipynb
+[I 20:23:51.852 NotebookApp] Saving file at /graph.ipynb
+[I 20:25:18.746 NotebookApp] Saving file at /graph.ipynb
+[I 20:33:18.734 NotebookApp] Saving file at /graph.ipynb
+[I 20:33:19.594 NotebookApp] Saving file at /graph.ipynb
+[I 20:46:46.997 NotebookApp] Saving file at /graph.ipynb
+[I 20:46:54.954 NotebookApp] Saving file at /graph.ipynb
+[I 20:47:44.576 NotebookApp] Saving file at /graph.ipynb
+[I 18:07:39.455 NotebookApp] Starting buffering for fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d:bfe8e47b56f94317857753a1e035f7a4
+[I 12:55:17.299 NotebookApp] Interrupted...
+[I 12:55:17.301 NotebookApp] Shutting down 1 kernel
+[I 12:55:18.004 NotebookApp] Kernel shutdown: fb5968c7-8380-4ae1-ab3b-bdcfd4985e0d
+[I 12:55:18.005 NotebookApp] Shutting down 0 terminals

@@ -1,0 +1,34 @@
+running scenario symmetric
+running: /u/xr5ry//src/wolfssl-4.5.0/wolfcrypt/benchmark/benchmark -rsa xx /u/xr5ry//src/duktape-2.6.0/duk regexp-dna.js
+
+with gem5 argsGlobal frequency set at 1000000000000 ticks per second
+period100
+mainT0
+------------------------------------------------------------------------------
+ wolfSSL version 4.5.0
+------------------------------------------------------------------------------
+wolfCrypt Benchmark (block bytes 1048576, min 1.0 sec each)
+gem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version [DEVELOP-FOR-V20.1]
+gem5 compiled Nov 19 2020 12:34:57
+gem5 started Nov 24 2020 15:47:09
+gem5 executing on hydro, pid 52233
+commangem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 version [DEVELOP-FOR-V20.1]
+gem5 compiled Nov 19 2020 12:34:57
+gem5 started Nov 24 2020 15:47:09
+gem5 executing on hydro, pid 52215
+command line: /u/xr5ry//src/gem5-smt/build/X86/gem5.opt --outdir partitioned__-rsa__regexp-dna.js --stats-file=stat-file.txt /u/xr5ry//src/gem5-smt/configs/example/se.py -c '/u/xr5ry//src/wolfssl-4.5.0/wolfcrypt/benchmark/benchmark;/u/xr5ry//src/duktape-2.6.0/duk' '--options=-rsa;regexp-dna.js' -I 100000000 --caches --cpu-type=Skylake_3 --l2cache --smt --smtROBPolicy=PartitionedSMTPolicy --smtIQPolicy=PartitionedSMTPolicy --smtTLBPolicy=PartitionedSMTPolicy --smtPhysRegPolicy=PartitionedSMTPolicy --smtSQPolicy=PartitionedSMTPolicy --smtLQPolicy=PartitionedSMTPolicy --smtIssuePolicy=MultiplexingFUs --maxinsts_threadID=1
+
+info: Standard input is not a terminal, disabling listeners.
+**** REAL SIMULATION ****
+Exiting @ tick 68620490000 because a thread reached the max instruction count
+done running: /u/xr5ry//src/wolfssl-4.5.0/wolfcrypt/benchmark/benchmark -rsa XXX /u/xr5ry//src/duktape-2.6.0/duk regexp-dna.js
+N ****
+Exiting @ tick 61398050500 because a thread reached the max instruction count
+done running: /u/xr5ry//src/wolfssl-4.5.0/wolfcrypt/benchmark/benchmark -rsa XXX /u/xr5ry//src/duktape-2.6.0/duk regexp-dna.js
+k regexp-dna.js

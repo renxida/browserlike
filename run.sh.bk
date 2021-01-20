@@ -1,0 +1,19 @@
+PROJ="$HOME/src"
+bin1="$PROJ/wolfssl-4.5.0/wolfcrypt/benchmark/benchmark"
+args1="-rsa"
+bin2="$PROJ/duktape-2.6.0/duk"
+args2=`ls *.js`
+echo running: $bin1 $args1;$bin2 $args2
+echo CMDLINE:
+
+echo
+echo
+echo $@
+echo
+echo
+
+
+
+$PROJ/gem5-smt/build/X86/gem5.opt --outdir all_shared --stats-file=adaptive.100.txt $PROJ/gem5-smt/configs/example/se.py -c "$bin1;$bin2" --options="$args1;$args2" --caches --cpu-type=Skylake_3 --l2cache --smt --maxinsts_threadID=1
+
+echo done running: $bin1 $args1;$bin2 $args2
